@@ -1,16 +1,52 @@
-### Hi there 👋
+### Andres Sepulveda ####
 
-<!--
-**gateway17/gateway17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former CEO at Sandy Corp
 
-Here are some ideas to get you started:
+Developer for Fun!
 
-- 🔭 I’m currently working on Sandy Corp Code...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+My likes:
+
+-- CyberSecurity
+-- Artificial Intelligence (Machine Learning)
+-- Data Analytics
+-- Movil Development
+-- Web Development
+-- Sys Administartion
+-- And many more...
+
+## I code at:
+
+-- Low level programming:
+-- C
+-- Ensambly
+
+-- High level programming:
+
+--BackEnd:
+-- Python3 (Mainly)
+-- R
+-- Dart (Currently Learning)
+-- 
+
+
+-- FrontEnd:
+-- JavaScript (JS) (Vanilla)
+-- HTML
+-- css
+
+## Librerias:
+-- React
+-- Flutter
+
+
+
+## I know:
+
+-- SQls
+-- 
+
+
+
