@@ -1,7 +1,5 @@
 ### Andres Sepulveda ####
 
-Former CEO at Sandy Corp
-
 Developer for Fun!
 
 
@@ -16,6 +14,12 @@ My likes:
 -- Web Development
 -- Sys Administartion
 -- And many more...
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gateway17&show_icons=true&theme=vue-dark)
+
 
 ## I code at:
 
