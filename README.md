@@ -17,8 +17,11 @@ My likes:
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gateway17)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gateway17&show_icons=true&theme=vue-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gateway17&show_icons=true&theme=vue-dark&count_private=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gateway17&repo=github-readme-stats&show_owner=true)](https://github.com/gateway17/AirBnB_clone_v4)
 
 
 ## I code at:
