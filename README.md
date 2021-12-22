@@ -17,7 +17,7 @@ My likes:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gateway17)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gateway17&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gateway17&show_icons=true&theme=vue-dark&count_private=true)
 
